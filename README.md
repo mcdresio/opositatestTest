@@ -4,4 +4,4 @@ He intentado mantener el estilo de la página, y además no dispongo de mucho ti
 
 La parte de minificación y optimización, aparte de unas pocas pruebas que había hecho, es bastante nueva para mi, espero haberla hecho medianamente bien.
 
-Me queda la duda, después de leer otra vez vuestro readme, de si se esperaba una plantilla desde cero en vez de lo que he hecho.
+Me queda la duda, después de leer otra vez vuestro readme, de si se esperaba una plantilla desde cero en vez de lo que he hecho. Podría intentar algo distinto el próximo fin de semana si fuese necesario
