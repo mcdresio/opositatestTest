@@ -1,0 +1,32 @@
+div.header-martillo {
+	background: url('martillo.jpg') no-repeat center top;
+	padding: 50px 10px 30px 10px;
+}
+
+div.header-martillo p {
+	font-size: 18px;
+}
+
+ul.lista {
+	padding-left: 0;
+}
+
+a.btn_a {
+	border: 3px solid #e09e00;
+	font-size: 22px;
+	-webkit-box-shadow: 1px 4px 10px #999 !important;
+    box-shadow: 1px 4px 10px #999 !important;
+    margin-bottom: 30px;
+}
+
+a.btn_a:hover {
+	border-width: 3px;
+}
+
+a.btn_b {
+	border: 2px solid #709e03;
+}
+
+a.btn_04.verde {
+	border: 2px solid #709e03;
+}
